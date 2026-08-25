@@ -1,1 +1,0 @@
-const int numero 2;
